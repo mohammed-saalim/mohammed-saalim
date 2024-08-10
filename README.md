@@ -99,7 +99,7 @@
 ## 📈 GitHub Stats
 
 ![Saalim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-saalim&show_icons=true&theme=radical&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-saalim&layout=compact&theme=radical)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-saalim&layout=compact&theme=radical) -->
 
 ---
 
