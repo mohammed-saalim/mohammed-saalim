@@ -1,7 +1,9 @@
-## Hi there 👋
 
 
-[![Saalim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-saalim)](https://github.com/anuraghazra/github-readme-stats)
+[![Saalim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-saalim&hide=ranks&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-saalim&size_weight=0.5&count_weight=0.5)
+
 <!--
 **mohammed-saalim/mohammed-saalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
