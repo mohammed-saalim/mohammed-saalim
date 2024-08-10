@@ -35,7 +35,7 @@
 
 ## 💼 Professional Experience
 
-### ASP.NET Developer at Tata Consultancy Services (TCS)
+### ASP.NET Developer at Tata Consultancy Services (Client: Humana Healthcare)
 *Feb. 2022 – Sep. 2023*
 
 - Architected and developed scalable Web APIs and microservices from the ground up using .NET 7 Minimal API, enhancing system performance and scalability.
