@@ -61,7 +61,7 @@
 ## 🌟 Projects
 
 ### [Local Hands Jobs](https://github.com/local-hands)
-- **Technologies:** ASP.NET Core, React, Azure, Docker, Kubernetes, Ocelot API Gateway, Kafka, gRPC
+- **Technologies:** ASP.NET Core, React Native, Azure, Docker, Kubernetes, Ocelot API Gateway, Kafka, gRPC
 - **Description:** Architected and developed a job posting and viewing platform leveraging a microservices architecture to ensure modularity, scalability, and maintainability.
 - **Features:**
   - Integrated RESTful APIs for job postings, search functionality, and user authentication, enabling seamless user interactions.
@@ -74,10 +74,6 @@
   - Leveraged GitHub Actions for CI/CD, automating the build, test, and deployment pipelines, and ensuring a robust and repeatable deployment process.
   - Successfully deployed the application on Azure Web App, optimizing it for cloud environments.
 
-### [Local Hands Mobile App](https://github.com/mohammed-saalim/localhands-app)
-- **Technologies:** React Native, ASP.NET Core, Azure, Docker
-- **Description:** UI/mobile interface for job seekers and employers to interact on the go
-- **Features:** Real-time notifications, job application tracking, user profile management.
 
 ### [Candidate Recruitment Using AI](https://orahacks-chat-interview-ui.vercel.app)
 - **Technologies:** Python, Django, React, Docker, Kafka
