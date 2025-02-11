@@ -86,6 +86,7 @@
 
 ## 📜 Certifications
 
+- **[Microsoft Certified: Azure Fundamentals]**(http://learn.microsoft.com/en-us/users/mohammedsaalim-6321/credentials/70ec23230f2f61e4)
 - **Microsoft Certified: Azure Developer Associate (Udemy) ** - Mar. 2024
 - **React – The Complete Guide (Udemy)** - Jan. 2021
 - **NIIT Data Structures & Algorithms & C C++** - Sep. 2018
