@@ -60,7 +60,7 @@
 
 ## 🌟 Projects
 
-### [Local Hands Jobs](https://github.com/local-hands)
+### [Local Hands](https://github.com/mohammed-saalim/Neighborly)
 - **Technologies:** ASP.NET Core, React Native, Azure, Docker, Kubernetes, Ocelot API Gateway, Kafka, gRPC
 - **Description:** Architected and developed a job posting and viewing platform leveraging a microservices architecture to ensure modularity, scalability, and maintainability.
 - **Features:**
