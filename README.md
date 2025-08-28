@@ -6,6 +6,7 @@
 📍 **Based in Chicago, IL**  
 📧 **[mkartapi@depaul.edu](mailto:mkartapi@depaul.edu)**  
 🔗 **[LinkedIn](https://linkedin.com/in/mohammed-saalim) | [GitHub](https://github.com/mohammed-saalim)**
+👽**[Portfolio](https://saalim-kartapillai.vercel.app/)**
 
 ---
 
