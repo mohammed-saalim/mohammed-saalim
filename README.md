@@ -124,16 +124,7 @@
 
 ## 📈 GitHub Stats
 
-![Saalim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-saalim&show_icons=true&theme=radical&hide_rank=true)
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced data visualization techniques with D3.js and React
-- Distributed systems and event-driven architectures
-- Contributing to open source ecosystems (.NET, Python, DevOps)
-- Cloud-native application development with Azure and Kubernetes
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammed-saalim&theme=radical)
 
 ---
 
