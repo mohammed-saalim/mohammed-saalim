@@ -1,21 +1,25 @@
 # 👋 Hi, I'm Mohammed Saalim Kartapillai
 
-🎓 **MS in Computer Science, DePaul University** (GPA: 3.63) | 🏆 **1st Place AI & Data Science Hackathon Winner**  
-💻 **Lead Software Developer @ DreamStudio | .NET, React, Cloud & Data Visualization Specialist**  
-🌟 **Open Source Contributor** | Microsoft PowerToys • Polly .NET  
+🌟 **Open Source Contributor** | Meta PyTorch • Microsoft PowerToys • Polly .NET • Serilog • Ansible  
+💻 **Lead Software Developer @ DreamStudio | .NET, React, Python, Cloud**  
+🎓 **MS in Computer Science, DePaul University** | 🏆 **1st Place AI & Data Science Hackathon Winner**  
 📍 **Chicago, IL** | 🔓 **Open to new opportunities**  
 📧 **mohammed.saalim.k@gmail.com**  
 🔗 **[LinkedIn](https://linkedin.com/in/mohammed-saalim) | [GitHub](https://github.com/mohammed-saalim) | [Portfolio](https://saalim-kartapillai.vercel.app/) | [NuGet Package](https://www.nuget.org/profiles/mohammed-saalim)**
 
 ---
 
-## 💼 Current Role
+## 🌟 Open Source Contributions
 
-**Lead Software Developer** @ DreamStudio (Model.Earth – EPA USEEIO Project)  
-*September 2025 – Present*
+### [Meta PyTorch](https://github.com/pytorch/pytorch)
 
-Building interactive data visualization widgets for EPA's environmental impact models using React, TypeScript, D3.js, and .NET 8. Architecting scalable full-stack solutions that translate complex economic and environmental data into actionable insights.
+### [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
 
+### [Polly (.NET Resilience Library)](https://github.com/App-vNext/Polly)
+
+### [Serilog](https://github.com/serilog/serilog)
+
+### [Ansible](https://github.com/ansible/ansible)
 ---
 
 ## 🛠️ Tech Stack
@@ -25,6 +29,7 @@ Building interactive data visualization widgets for EPA's environmental impact m
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend & Visualization
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -37,7 +42,6 @@ Building interactive data visualization widgets for EPA's environmental impact m
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Messaging & Data
@@ -49,21 +53,9 @@ Building interactive data visualization widgets for EPA's environmental impact m
 
 ---
 
-## 🌟 Open Source Contributions
-
-### [Microsoft PowerToys](https://github.com/microsoft/PowerToys) | *January 2025 – Present*
-- **PR [#41206](https://github.com/microsoft/PowerToys/pull/41206)**: Implemented "No leading spaces" validation feature for WPF-based Hosts File Editor
-- **PR [#41202](https://github.com/microsoft/PowerToys/pull/41202)**: Expanded unit test coverage for Calculator plugin, improving code reliability
-
-### [Polly (.NET Resilience Library)](https://github.com/App-vNext/Polly) | *January 2025 – Present*
-- **PR [#2709](https://github.com/App-vNext/Polly/pull/2709)**: Architected and implemented high-throughput HybridCache strategy for Polly.Caching
-- **PR [#2711](https://github.com/App-vNext/Polly/pull/2711)**: Enhanced RateLimiting stability through comprehensive unit testing
-
----
-
 ## 🏆 Featured Projects
 
-### [AI Interview Platform (MockMate)](https://orahacks-chat-interview-ui.vercel.app)
+### [AI Interview Platform (MockMate)](https://github.com/mohammed-saalim/wildhacks-2025)
 **🥇 1st Place Winner - DePaul University AI & Data Science Hackathon**
 
 - **Tech Stack**: React, FastAPI (Python), Gemini AI, TensorFlow, MongoDB Atlas
@@ -71,9 +63,8 @@ Building interactive data visualization widgets for EPA's environmental impact m
   - Real-time AI-powered interview simulation with emotion detection
   - Intelligent question generation based on job descriptions
   - Comprehensive feedback and performance analytics
-- **[Live Demo](https://orahacks-chat-interview-ui.vercel.app)**
 
-### [LazyMails - Chrome Extension](https://github.com/mohammed-saalim/lazymails)
+### [LazyMails - Chrome Extension](https://chromewebstore.google.com/detail/lazymails/bpkjjbhkngopcfcgcndcobonjipllfgm)
 **Published on Chrome Web Store**
 
 - **Tech Stack**: .NET, JavaScript, PostgreSQL
@@ -82,17 +73,6 @@ Building interactive data visualization widgets for EPA's environmental impact m
   - Smart context extraction from LinkedIn profiles
   - Template customization and tracking
 - **Impact**: Streamlines professional networking and job search outreach
-
-### [(Neighborly)](https://github.com/mohammed-saalim/Neighborly)
-**Microservices-based Job Platform**
-
-- **Tech Stack**: ASP.NET Core, React Native, Azure, Docker, Kubernetes, Kafka, gRPC, Ocelot
-- **Architecture Highlights**:
-  - Event-driven microservices with Kafka messaging
-  - gRPC for inter-service communication
-  - API Gateway with Ocelot for centralized routing
-  - Deployed on Azure Kubernetes Service (AKS)
-  - CI/CD automation with GitHub Actions
 
 ---
 
@@ -133,7 +113,7 @@ Building interactive data visualization widgets for EPA's environmental impact m
 ## 🎓 Education
 
 **Master of Science in Computer Science** | DePaul University  
-*Graduated: June 2025 | GPA: 3.63*
+*Graduated: June 2025 
 
 **Leadership & Achievements**:
 - 🏆 1st Place, AI and Data Science Hackathon
@@ -152,7 +132,7 @@ Building interactive data visualization widgets for EPA's environmental impact m
 
 - Advanced data visualization techniques with D3.js and React
 - Distributed systems and event-driven architectures
-- Contributing to open source .NET ecosystem
+- Contributing to open source ecosystems (.NET, Python, DevOps)
 - Cloud-native application development with Azure and Kubernetes
 
 ---
